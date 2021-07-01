@@ -1,0 +1,60 @@
+body {
+  background-color: #312F2F;
+  /*background-color: #19323C;*/
+    /*background-color: #023C40;*/
+    text-align: center;
+}
+
+h1, h2, h3, h4 {
+color: #FCF7F0;
+font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+}
+
+p {
+color: #7FFFD4;
+font-size: 1.5rem;
+line-height: 1.2;
+}
+
+p:hover {
+  color: #FF1053;
+}
+
+h1:hover, h2:hover, h3:hover {
+  color: #A93F55;
+}
+
+hr {
+  border-color: #040F16;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 20%;
+}
+
+.top {
+  padding-top: 30px;
+  font-weight: normal;
+}
+
+.hiImEv {
+  padding-top: 30px;
+  font-family: cursive;
+}
+
+.bbyseaturtle {
+  position: absolute;
+  right: 500px;
+}
+
+.bb {
+  padding-top: 10px;
+}
+
+.progp {
+  text-align: left;
+}
+
+bb:hover{
+  color:orange;
+}
